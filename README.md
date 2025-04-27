@@ -17,4 +17,3 @@ Autor
 Mario Campos
 
 GitHub Pages
-https://cnote86.github.io/web_project_homeland/
