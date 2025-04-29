@@ -1,7 +1,7 @@
 # Tripleten web_project_homeland
-Proyecto 5: Galeria de arte Triple Ten,
+Proyecto 6: 
 
-La Galería de TripleTen es el quinto proyecto que esta dirigido a conocer más a nuestros colegas, tomando como punto principal donde ellos nacieron y se crecieron y plasmando las diferentes ciudades en fotografías como obras de arte.
+Esta página web es una presentación sencilla de "Homeland", un proyecto enfocado en encontrar el hogar ideal. Muestra una interfaz limpia con un menú de navegación, una sección de bienvenida, testimonios de clientes y un formulario de contacto. La idea principal es transmitir confianza y facilitar que los usuarios interesados se acerquen para recibir asesoría personalizada en la búsqueda de su nuevo hogar.
 
 
 Características del proyecto
